@@ -1,0 +1,22 @@
+C:\Github\RoboCup2020\C#\Utilities\bin\Debug\Utilities.dll
+C:\Github\RoboCup2020\C#\Utilities\bin\Debug\Utilities.pdb
+C:\Github\RoboCup2020\C#\Utilities\obj\Debug\Utilities.dll
+C:\Github\RoboCup2020\C#\Utilities\obj\Debug\Utilities.pdb
+C:\Github\RoboCup2020\C#\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\Utilities\bin\Debug\Utilities.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\Utilities\bin\Debug\Utilities.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\Utilities\obj\Debug\Utilities.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\Utilities\obj\Debug\Utilities.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\Utilities\bin\Debug\Utilities.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\Utilities\bin\Debug\Utilities.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\Utilities\obj\Debug\Utilities.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\Utilities\obj\Debug\Utilities.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\Utilities\bin\Debug\Utilities.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\Utilities\bin\Debug\Utilities.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\Utilities\obj\Debug\Utilities.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\Utilities\obj\Debug\Utilities.pdb

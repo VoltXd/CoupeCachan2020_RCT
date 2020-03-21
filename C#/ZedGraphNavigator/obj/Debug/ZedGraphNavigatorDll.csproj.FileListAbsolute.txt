@@ -1,0 +1,51 @@
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ZedGraphNavigator\bin\Debug\ZedGraphNavigatorDll.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ZedGraphNavigator\bin\Debug\ZedGraphNavigatorDll.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ZedGraphNavigator\bin\Debug\ZedGraph.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ZedGraphNavigator\bin\Debug\ZedGraph.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.ZedGraphNavigator.resources
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csproj.GenerateResource.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csproj.CoreCompileInputs.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ZedGraphNavigator\bin\Debug\ZedGraphNavigatorDll.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ZedGraphNavigator\bin\Debug\ZedGraphNavigatorDll.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ZedGraphNavigator\bin\Debug\ZedGraph.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ZedGraphNavigator\bin\Debug\ZedGraph.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.ZedGraphNavigator.resources
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csproj.GenerateResource.cache
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csproj.CopyComplete
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ZedGraphNavigator\bin\Debug\ZedGraphNavigatorDll.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ZedGraphNavigator\bin\Debug\ZedGraphNavigatorDll.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ZedGraphNavigator\bin\Debug\ZedGraph.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ZedGraphNavigator\bin\Debug\ZedGraph.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.ZedGraphNavigator.resources
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csproj.GenerateResource.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ZedGraphNavigator\bin\Debug\ZedGraphNavigatorDll.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ZedGraphNavigator\bin\Debug\ZedGraphNavigatorDll.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ZedGraphNavigator\bin\Debug\ZedGraph.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ZedGraphNavigator\bin\Debug\ZedGraph.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.ZedGraphNavigator.resources
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csproj.GenerateResource.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ZedGraphNavigator\bin\Debug\ZedGraphNavigatorDll.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ZedGraphNavigator\bin\Debug\ZedGraphNavigatorDll.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ZedGraphNavigator\bin\Debug\ZedGraph.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ZedGraphNavigator\bin\Debug\ZedGraph.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.ZedGraphNavigator.resources
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csproj.GenerateResource.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ZedGraphNavigator\obj\Debug\ZedGraphNavigatorDll.pdb

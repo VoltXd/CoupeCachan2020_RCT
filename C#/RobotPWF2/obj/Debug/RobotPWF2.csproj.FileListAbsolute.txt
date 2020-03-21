@@ -1,0 +1,333 @@
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\RobotPWF2.exe.config
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\RobotPWF2.exe
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\RobotPWF2.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\ExtendedSerialPort.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\Lidar.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\LidarProcessor.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\MathNet.Numerics.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\Utilities.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\ZedGraph.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\ZedGraphNavigatorDll.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\SharpGL.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\WinUSBNet.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\ExtendedSerialPort.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\GeometryElements.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\LidarProcessor.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\Lidar.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\Utilities.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\ZedGraphNavigatorDll.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\MathNet.Numerics.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\ZedGraph.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\SharpGL.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\bin\Debug\WinUSBNet.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\obj\Debug\RobotPWF2.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\obj\Debug\MainWindow.g.cs
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\obj\Debug\App.g.cs
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.lref
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\obj\Debug\MainWindow.baml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\obj\Debug\RobotPWF2.g.resources
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\obj\Debug\RobotPWF2.Properties.Resources.resources
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\obj\Debug\RobotPWF2.csproj.GenerateResource.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\obj\Debug\RobotPWF2.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\obj\Debug\RobotPWF2.exe
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\RobotPWF2\obj\Debug\RobotPWF2.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\RobotPWF2.exe.config
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\RobotPWF2.exe
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\RobotPWF2.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\ExtendedSerialPort.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\Lidar.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\LidarProcessor.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\MathNet.Numerics.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\Utilities.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\ZedGraph.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\ZedGraphNavigatorDll.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\SharpGL.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\WinUSBNet.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\ExtendedSerialPort.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\GeometryElements.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\LidarProcessor.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\Lidar.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\Utilities.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\ZedGraphNavigatorDll.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\MathNet.Numerics.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\ZedGraph.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\SharpGL.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\bin\Debug\WinUSBNet.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\obj\Debug\RobotPWF2.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\obj\Debug\MainWindow.g.cs
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\obj\Debug\App.g.cs
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.lref
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\obj\Debug\MainWindow.baml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\obj\Debug\RobotPWF2.g.resources
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\obj\Debug\RobotPWF2.Properties.Resources.resources
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\obj\Debug\RobotPWF2.csproj.GenerateResource.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\obj\Debug\RobotPWF2.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\obj\Debug\RobotPWF2.exe
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\RobotPWF2\obj\Debug\RobotPWF2.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.csprojAssemblyReference.cache
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\MainWindow.g.cs
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\App.g.cs
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.cache
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.lref
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.exe
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\RobotPWF2.exe.config
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\RobotPWF2.exe
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\RobotPWF2.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\ExtendedSerialPort.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\GeometryElements.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\Lidar.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\LidarProcessor.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\MathNet.Numerics.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\Utilities.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SharpGL.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\WinUSBNet.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\ExtendedSerialPort.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\GeometryElements.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\LidarProcessor.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\Lidar.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\Utilities.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\MathNet.Numerics.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SharpGL.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\WinUSBNet.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\MainWindow.baml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.g.resources
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.Properties.Resources.resources
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.csproj.GenerateResource.cache
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.csproj.CopyComplete
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\WpfWorldMapDisplayIUT.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Charting.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Drawing.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Core.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Data.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\WpfWorldMapDisplayIUT.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Charting.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Drawing.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Core.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Data.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\RobotPWF2.exe.config
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\RobotPWF2.exe
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\RobotPWF2.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\ExtendedSerialPort.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\GeometryElements.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\Lidar.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\LidarProcessor.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\MathNet.Numerics.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\Utilities.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\WpfWorldMapDisplayIUT.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SharpGL.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\WinUSBNet.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Charting.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Drawing.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Core.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Data.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\ExtendedSerialPort.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\GeometryElements.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\LidarProcessor.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\Lidar.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\Utilities.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\WpfWorldMapDisplayIUT.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\MathNet.Numerics.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SharpGL.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\WinUSBNet.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Charting.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Drawing.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Core.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\SciChart.Data.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\MainWindow.g.cs
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\App.g.cs
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.lref
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\MainWindow.baml
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.g.resources
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.Properties.Resources.resources
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.csproj.GenerateResource.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.csproj.CopyComplete
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.exe
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\obj\Debug\RobotPWF2.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\WpfOscilloscopeControl.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\RobotPWF2\bin\Debug\WpfOscilloscopeControl.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\RobotPWF2.exe.config
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\RobotPWF2.exe
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\RobotPWF2.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\ExtendedSerialPort.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\GeometryElements.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\Lidar.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\LidarProcessor.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\MathNet.Numerics.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\SciChart.Charting.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\SciChart.Core.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\SciChart.Data.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\SciChart.Drawing.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\Utilities.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\WpfOscilloscopeControl.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\WpfWorldMapDisplayIUT.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\SharpGL.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\WinUSBNet.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\WpfOscilloscopeControl.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\ExtendedSerialPort.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\GeometryElements.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\LidarProcessor.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\Lidar.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\Utilities.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\WpfWorldMapDisplayIUT.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\MathNet.Numerics.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\SciChart.Charting.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\SciChart.Core.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\SciChart.Data.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\SciChart.Drawing.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\SharpGL.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\bin\Debug\WinUSBNet.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\obj\Debug\RobotPWF2.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\obj\Debug\MainWindow.g.cs
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\obj\Debug\App.g.cs
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.lref
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\obj\Debug\MainWindow.baml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\obj\Debug\RobotPWF2.g.resources
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\obj\Debug\RobotPWF2.Properties.Resources.resources
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\obj\Debug\RobotPWF2.csproj.GenerateResource.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\obj\Debug\RobotPWF2.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\obj\Debug\RobotPWF2.csproj.CopyComplete
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\obj\Debug\RobotPWF2.exe
+C:\E&R\Visual\Projet_Coupe_Cachan_1\RobotPWF2\obj\Debug\RobotPWF2.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\RobotPWF2.exe.config
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\RobotPWF2.exe
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\RobotPWF2.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\ExtendedSerialPort.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\GeometryElements.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\Lidar.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\LidarProcessor.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\MathNet.Numerics.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Charting.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Core.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Data.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Drawing.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\Utilities.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WpfOscilloscopeControl.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WpfWorldMapDisplayIUT.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SharpGL.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WinUSBNet.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WpfOscilloscopeControl.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\ExtendedSerialPort.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\GeometryElements.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\LidarProcessor.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\Lidar.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\Utilities.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WpfWorldMapDisplayIUT.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\MathNet.Numerics.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Charting.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Core.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Data.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Drawing.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SharpGL.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WinUSBNet.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\MainWindow.g.cs
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\App.g.cs
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.lref
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\MainWindow.baml
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.g.resources
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.Properties.Resources.resources
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.csproj.GenerateResource.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.csproj.CopyComplete
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.exe
+C:\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\App.g.cs
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.exe
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\MainWindow.g.cs
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.lref
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\RobotPWF2.exe.config
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\RobotPWF2.exe
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\RobotPWF2.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\ExtendedSerialPort.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\Lidar.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\LidarProcessor.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\MathNet.Numerics.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Charting.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Core.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Data.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Drawing.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\Utilities.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WpfOscilloscopeControl.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WpfWorldMapDisplayIUT.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SharpGL.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WinUSBNet.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\ExtendedSerialPort.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\GeometryElements.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\LidarProcessor.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\Lidar.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\Utilities.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WpfOscilloscopeControl.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WpfWorldMapDisplayIUT.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\MathNet.Numerics.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Charting.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Core.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Data.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Drawing.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SharpGL.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WinUSBNet.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\MainWindow.baml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.g.resources
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.Properties.Resources.resources
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.csproj.GenerateResource.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\TrajectoryGenerator.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\TrajectoryGenerator.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\RobotPWF2.exe.config
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\RobotPWF2.exe
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\RobotPWF2.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\ExtendedSerialPort.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\GeometryElements.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\Lidar.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\LidarProcessor.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\MathNet.Numerics.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Charting.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Core.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Data.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Drawing.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\TrajectoryGenerator.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\Utilities.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WpfOscilloscopeControl.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WpfWorldMapDisplayIUT.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SharpGL.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WinUSBNet.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\ExtendedSerialPort.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\GeometryElements.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\LidarProcessor.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\Lidar.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\TrajectoryGenerator.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\Utilities.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WpfOscilloscopeControl.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WpfWorldMapDisplayIUT.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\MathNet.Numerics.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Charting.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Core.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Data.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SciChart.Drawing.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\SharpGL.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\bin\Debug\WinUSBNet.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\MainWindow.g.cs
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\App.g.cs
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.cache
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2_MarkupCompile.lref
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\MainWindow.baml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.g.resources
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.Properties.Resources.resources
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.csproj.GenerateResource.cache
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.csproj.CopyComplete
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.exe
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\RobotPWF2\obj\Debug\RobotPWF2.pdb

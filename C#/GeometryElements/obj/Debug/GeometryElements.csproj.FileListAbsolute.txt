@@ -1,0 +1,82 @@
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\GeometryElements\bin\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\GeometryElements\bin\Debug\GeometryElements.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\GeometryElements\bin\Debug\SharpGL.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\GeometryElements\bin\Debug\SharpGL.WPF.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\GeometryElements\bin\Debug\SharpGL.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\GeometryElements\bin\Debug\SharpGL.WPF.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\GeometryElements\obj\Debug\GeometryElements.csproj.CoreCompileInputs.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\GeometryElements\obj\Debug\GeometryElements.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\GeometryElements\obj\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\GeometryElements\obj\Debug\GeometryElements.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\GeometryElements\bin\Debug\GeometryElements.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\GeometryElements\bin\Debug\GeometryElements.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\GeometryElements\bin\Debug\SharpGL.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\GeometryElements\bin\Debug\SharpGL.WPF.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\GeometryElements\bin\Debug\SharpGL.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\GeometryElements\bin\Debug\SharpGL.WPF.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\GeometryElements\obj\Debug\GeometryElements.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\GeometryElements\obj\Debug\GeometryElements.csproj.CopyComplete
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\GeometryElements\obj\Debug\GeometryElements.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\GeometryElements\obj\Debug\GeometryElements.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\GeometryElements\bin\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\GeometryElements\bin\Debug\GeometryElements.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\GeometryElements\bin\Debug\SharpGL.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\GeometryElements\bin\Debug\SharpGL.WPF.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\GeometryElements\bin\Debug\SharpGL.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\GeometryElements\bin\Debug\SharpGL.WPF.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\GeometryElements\obj\Debug\GeometryElements.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\GeometryElements\obj\Debug\GeometryElements.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\GeometryElements\obj\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\GeometryElements\obj\Debug\GeometryElements.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\GeometryElements\bin\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\GeometryElements\bin\Debug\GeometryElements.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\GeometryElements\bin\Debug\SharpGL.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\GeometryElements\bin\Debug\SharpGL.WPF.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\GeometryElements\bin\Debug\SharpGL.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\GeometryElements\bin\Debug\SharpGL.WPF.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\GeometryElements\obj\Debug\GeometryElements.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\GeometryElements\obj\Debug\GeometryElements.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\GeometryElements\obj\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\GeometryElements\obj\Debug\GeometryElements.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\GeometryElements\bin\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\GeometryElements\bin\Debug\GeometryElements.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\GeometryElements\bin\Debug\SharpGL.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\GeometryElements\bin\Debug\SharpGL.WPF.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\GeometryElements\bin\Debug\SharpGL.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\GeometryElements\bin\Debug\SharpGL.WPF.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\GeometryElements\obj\Debug\GeometryElements.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\GeometryElements\obj\Debug\GeometryElements.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\GeometryElements\obj\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\GeometryElements\obj\Debug\GeometryElements.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\GeometryElements\bin\Debug\GeometryElements.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\GeometryElements\bin\Debug\GeometryElements.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\GeometryElements\bin\Debug\SharpGL.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\GeometryElements\bin\Debug\SharpGL.WPF.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\GeometryElements\bin\Debug\SharpGL.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\GeometryElements\bin\Debug\SharpGL.WPF.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\GeometryElements\obj\Debug\GeometryElements.csprojAssemblyReference.cache
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\GeometryElements\obj\Debug\GeometryElements.csproj.CopyComplete
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\GeometryElements\obj\Debug\GeometryElements.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\GeometryElements\obj\Debug\GeometryElements.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\GeometryElements\bin\Debug\GeometryElements.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\GeometryElements\bin\Debug\GeometryElements.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\GeometryElements\bin\Debug\SharpGL.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\GeometryElements\bin\Debug\SharpGL.WPF.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\GeometryElements\bin\Debug\SharpGL.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\GeometryElements\bin\Debug\SharpGL.WPF.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\GeometryElements\obj\Debug\GeometryElements.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\GeometryElements\obj\Debug\GeometryElements.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\GeometryElements\obj\Debug\GeometryElements.csproj.CopyComplete
+C:\E&R\Visual\Projet_Coupe_Cachan\GeometryElements\obj\Debug\GeometryElements.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\GeometryElements\obj\Debug\GeometryElements.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\GeometryElements\bin\Debug\GeometryElements.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\GeometryElements\bin\Debug\GeometryElements.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\GeometryElements\bin\Debug\SharpGL.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\GeometryElements\bin\Debug\SharpGL.WPF.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\GeometryElements\bin\Debug\SharpGL.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\GeometryElements\bin\Debug\SharpGL.WPF.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\GeometryElements\obj\Debug\GeometryElements.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\GeometryElements\obj\Debug\GeometryElements.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\GeometryElements\obj\Debug\GeometryElements.csproj.CopyComplete
+C:\E&R\Visual\Projet_Coupe_Cachan_1\GeometryElements\obj\Debug\GeometryElements.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\GeometryElements\obj\Debug\GeometryElements.pdb

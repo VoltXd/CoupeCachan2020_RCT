@@ -1,0 +1,147 @@
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csprojAssemblyReference.cache
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WorldMapDisplayIUT.g.cs
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT_MarkupCompile.cache
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT_MarkupCompile.lref
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\WpfWorldMapDisplayIUT.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\WpfWorldMapDisplayIUT.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Charting.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Core.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Data.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Drawing.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\Utilities.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\Utilities.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Charting.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Core.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Data.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Drawing.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WorldMapDisplayIUT.baml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.g.resources
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.Properties.Resources.resources
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.GenerateResource.cache
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.CopyComplete
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\WpfWorldMapDisplayIUT.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\WpfWorldMapDisplayIUT.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\Utilities.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\Utilities.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Charting.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Core.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Data.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Drawing.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WorldMapDisplayIUT.g.cs
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT_MarkupCompile.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT_MarkupCompile.lref
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WorldMapDisplayIUT.baml
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.g.resources
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.Properties.Resources.resources
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.GenerateResource.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.CopyComplete
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Charting.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Core.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Data.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\WpfWorldMapDisplay\bin\Debug\SciChart.Drawing.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\bin\Debug\WpfWorldMapDisplayIUT.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\bin\Debug\WpfWorldMapDisplayIUT.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\bin\Debug\SciChart.Charting.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\bin\Debug\SciChart.Core.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\bin\Debug\SciChart.Data.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\bin\Debug\SciChart.Drawing.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\bin\Debug\Utilities.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\bin\Debug\Utilities.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\bin\Debug\SciChart.Charting.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\bin\Debug\SciChart.Core.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\bin\Debug\SciChart.Data.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\bin\Debug\SciChart.Drawing.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\obj\Debug\WorldMapDisplayIUT.g.cs
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT_MarkupCompile.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT_MarkupCompile.lref
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\obj\Debug\WorldMapDisplayIUT.baml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.g.resources
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.Properties.Resources.resources
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.GenerateResource.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.CopyComplete
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\WpfWorldMapDisplayIUT.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\WpfWorldMapDisplayIUT.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Charting.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Core.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Data.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Drawing.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\Utilities.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\Utilities.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Charting.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Core.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Data.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Drawing.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WorldMapDisplayIUT.g.cs
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT_MarkupCompile.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT_MarkupCompile.lref
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WorldMapDisplayIUT.baml
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.g.resources
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.Properties.Resources.resources
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.GenerateResource.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.CopyComplete
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\WpfWorldMapDisplayIUT.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\WpfWorldMapDisplayIUT.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Charting.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Core.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Data.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Drawing.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\Utilities.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\Utilities.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Charting.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Core.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Data.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Drawing.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WorldMapDisplayIUT.g.cs
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT_MarkupCompile.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT_MarkupCompile.lref
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WorldMapDisplayIUT.baml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.g.resources
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.Properties.Resources.resources
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.GenerateResource.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\WpfWorldMapDisplayIUT.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\WpfWorldMapDisplayIUT.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\Utilities.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\Utilities.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Charting.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Core.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Data.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Drawing.xml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WorldMapDisplayIUT.g.cs
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT_MarkupCompile.cache
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT_MarkupCompile.lref
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WorldMapDisplayIUT.baml
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.g.resources
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.Properties.Resources.resources
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.GenerateResource.cache
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.csproj.CopyComplete
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\obj\Debug\WpfWorldMapDisplayIUT.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Charting.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Core.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Data.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S4\E&R\Visual\Projet_Coupe_Cachan_3\WpfWorldMapDisplay\bin\Debug\SciChart.Drawing.dll

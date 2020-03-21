@@ -1,0 +1,98 @@
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\Lidar.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\MathNet.Numerics.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\Utilities.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\WinUSBNet.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\SharpGL.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\Lidar.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\MathNet.Numerics.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\Utilities.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\WinUSBNet.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\GeometryElements.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\SharpGL.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\obj\Debug\LidarProcessor.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\LidarProcessor.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\bin\Debug\LidarProcessor.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\obj\Debug\LidarProcessor.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\obj\Debug\LidarProcessor.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\LidarProcessor\obj\Debug\LidarProcessor.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\LidarProcessor.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\LidarProcessor.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\Lidar.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\MathNet.Numerics.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\Utilities.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\WinUSBNet.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\SharpGL.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\Lidar.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\MathNet.Numerics.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\Utilities.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\WinUSBNet.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\GeometryElements.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\bin\Debug\SharpGL.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\obj\Debug\LidarProcessor.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\obj\Debug\LidarProcessor.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\obj\Debug\LidarProcessor.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\LidarProcessor\obj\Debug\LidarProcessor.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\LidarProcessor.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\LidarProcessor.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\Lidar.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\MathNet.Numerics.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\Utilities.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\WinUSBNet.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\GeometryElements.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\SharpGL.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\Lidar.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\MathNet.Numerics.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\Utilities.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\WinUSBNet.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\GeometryElements.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\bin\Debug\SharpGL.xml
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\obj\Debug\LidarProcessor.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\obj\Debug\LidarProcessor.csproj.CopyComplete
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\obj\Debug\LidarProcessor.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\LidarProcessor\obj\Debug\LidarProcessor.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\LidarProcessor.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\LidarProcessor.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\Lidar.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\MathNet.Numerics.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\Utilities.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\WinUSBNet.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\Lidar.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\MathNet.Numerics.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\Utilities.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\WinUSBNet.xml
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\obj\Debug\LidarProcessor.csprojAssemblyReference.cache
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\obj\Debug\LidarProcessor.csproj.CopyComplete
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\obj\Debug\LidarProcessor.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\LidarProcessor\obj\Debug\LidarProcessor.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\LidarProcessor.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\LidarProcessor.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\Lidar.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\MathNet.Numerics.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\Utilities.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\WinUSBNet.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\Lidar.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\MathNet.Numerics.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\Utilities.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\bin\Debug\WinUSBNet.xml
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\obj\Debug\LidarProcessor.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\obj\Debug\LidarProcessor.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\obj\Debug\LidarProcessor.csproj.CopyComplete
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\obj\Debug\LidarProcessor.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\LidarProcessor\obj\Debug\LidarProcessor.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\bin\Debug\LidarProcessor.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\bin\Debug\LidarProcessor.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\bin\Debug\Lidar.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\bin\Debug\MathNet.Numerics.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\bin\Debug\Utilities.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\bin\Debug\WinUSBNet.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\bin\Debug\Lidar.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\bin\Debug\MathNet.Numerics.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\bin\Debug\Utilities.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\bin\Debug\WinUSBNet.xml
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\obj\Debug\LidarProcessor.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\obj\Debug\LidarProcessor.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\obj\Debug\LidarProcessor.csproj.CopyComplete
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\obj\Debug\LidarProcessor.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\LidarProcessor\obj\Debug\LidarProcessor.pdb

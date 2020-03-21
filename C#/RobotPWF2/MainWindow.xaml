@@ -1,0 +1,95 @@
+﻿<Window x:Class="RobotPWF2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RobotPWF2"
+        xmlns:ext="clr-namespace:WpfWorldMapDisplay;assembly=WpfWorldMapDisplayIUT"
+        xmlns:oscillo="clr-namespace:WpfOscilloscopeControl;assembly=WpfOscilloscopeControl"
+        xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        mc:Ignorable="d"                                                           
+        Title="MainWindow" Height="1012" Width="1800" Loaded="Window_Loaded" Closed="Window_Closed"
+             xmlns:s="http://schemas.abtsoftware.co.uk/scichart">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="30"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="30"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox x:Name="Emission" Header="Emission" Margin="0" Background="#FFDDDDDD" BorderBrush="Black" Grid.Column="1" Grid.Row="1">
+            <TextBox x:Name="textBoxEmission" Margin="0" TextWrapping="Wrap" Text="" Background="{x:Null}" AcceptsReturn="True" KeyUp="textBoxEmission_KeyUp"/>
+        </GroupBox>
+        <GroupBox x:Name="Reception" Header="Reception" Margin="0" Background="#FFDDDDDD" BorderBrush="Black" RenderTransformOrigin="2.605,0.569" Grid.Column="3" Grid.Row="1">
+            <TextBox x:Name="textBoxReception" Margin="0" TextWrapping="Wrap" Text="" Background="{x:Null}" AcceptsReturn="True" IsReadOnly="True"/>
+        </GroupBox>
+        <Button x:Name="buttonEnvoyer" Content="Envoyer" Grid.Column="1" Margin="100,0" Grid.Row="3" HorizontalAlignment="Center" Click="button_Click" Width="100"/>
+        <Button x:Name="buttonClear" Content="Clear" Grid.Column="3" HorizontalAlignment="Center" Margin="100,0" Grid.Row="3" Click="buttonClear_Click" Width="100"/>
+        <Button x:Name="buttonTest" Content="Test" Grid.Column="1" HorizontalAlignment="Center" Margin="520,0,231,0" Grid.Row="3" Width="100" Click="buttonTest_Click"/>
+        <CheckBox x:Name="checkBoxLedOra" Content="Led Orange" Grid.Column="1" HorizontalAlignment="Left" Margin="237,24,0,0" Grid.Row="4" VerticalAlignment="Top" Click="CheckBoxLedOra_Click"/>
+        <CheckBox x:Name="checkBoxLedBle" Content="Led Bleue" Grid.Column="1" HorizontalAlignment="Left" Margin="237,44,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBoxLedBla" Content="Led Blanche" Grid.Column="1" HorizontalAlignment="Left" Margin="237,4,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Ir Gauche : " Grid.Column="1" HorizontalAlignment="Left" Margin="1,4,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Ir Centre Gauche : " Grid.Column="1" HorizontalAlignment="Left" Margin="1,35,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Ir Centre : " Grid.Column="1" HorizontalAlignment="Left" Margin="1,66,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="Ir Centre Droit : " Grid.Column="1" HorizontalAlignment="Left" Margin="1,97,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Label x:Name="label5" Content="Ir Droit : " Grid.Column="1" HorizontalAlignment="Left" Margin="1,128,0,0" Grid.Row="4" VerticalAlignment="Top" Grid.RowSpan="2"/>
+        <Label x:Name="labelGauche" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="71,4,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Label x:Name="labelCentreGauche" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="114,35,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Label x:Name="labelCentre" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="71,66,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Label x:Name="labelCentreDroit" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="101,97,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Label x:Name="labelDroit" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="62,128,0,0" Grid.Row="4" VerticalAlignment="Top" Grid.RowSpan="2"/>
+        <Label x:Name="label6" Content="PWM Moteur Gauche : " Grid.Column="1" HorizontalAlignment="Left" Margin="406,1,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Label x:Name="label7" Content="PWM Moteur Droite : " Grid.Column="1" HorizontalAlignment="Left" Margin="406,32,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Label x:Name="labelPWMGauche" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="544,1,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Label x:Name="labelPWMDroit" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="537,32,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Button x:Name="buttonSaveCurrentGraph" Content="Save point list and picture" Grid.Column="3" Margin="0" Grid.Row="8" Click="buttonSaveCurrentGraph_Click"/>
+        <Label x:Name="label1_Copy" Content="xPos : " Grid.Column="1" HorizontalAlignment="Left" Margin="1,2,0,0" Grid.Row="7" VerticalAlignment="Top"/>
+        <Label x:Name="label2_Copy" Content="yPos : " Grid.Column="1" HorizontalAlignment="Left" Margin="1,28,0,0" Grid.Row="7" VerticalAlignment="Top"/>
+        <Label x:Name="label3_Copy" Content="angle : " Grid.Column="1" HorizontalAlignment="Left" Margin="1,54,0,0" Grid.Row="7" VerticalAlignment="Top"/>
+        <Label x:Name="label4_Copy" Content="vitesseLin : " HorizontalAlignment="Left" Margin="1,80,0,0" Grid.Row="7" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label x:Name="label5_Copy" Content="vitesseAng : " HorizontalAlignment="Left" Grid.Row="7" VerticalAlignment="Top" Grid.Column="1" Margin="1,106,0,0"/>
+        <Label x:Name="labelxPos" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="101,2,0,0" Grid.Row="7" VerticalAlignment="Top"/>
+        <Label x:Name="labelyPos" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="101,28,0,0" Grid.Row="7" VerticalAlignment="Top"/>
+        <Label x:Name="labelAngle" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="101,54,0,0" Grid.Row="7" VerticalAlignment="Top"/>
+        <Label x:Name="labelvitesseLin" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="101,80,0,0" Grid.Row="7" VerticalAlignment="Top"/>
+        <Label x:Name="labelvitesseAng" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="101,106,0,0" Grid.Row="7" VerticalAlignment="Top"/>
+        <Label x:Name="label4_Copy1" Content="timestamp : " Grid.Column="1" HorizontalAlignment="Left" Margin="315,2,0,0" Grid.Row="7" VerticalAlignment="Top"/>
+        <Label x:Name="labelTimestamp" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="390,2,0,0" Grid.Row="7" VerticalAlignment="Top"/>
+
+
+
+
+        <GroupBox Grid.Column="1" Header="Oscillo" Margin="0" Grid.Row="10" Grid.ColumnSpan="1">
+            <oscillo:WpfOscilloscope x:Name="WpfOscilloscopeVLin"  Margin="0">
+            </oscillo:WpfOscilloscope>
+        </GroupBox>
+        <GroupBox Grid.Column="3" Header="Oscillo" Margin="0" Grid.Row="10" Grid.ColumnSpan="1">
+            <oscillo:WpfOscilloscope x:Name="WpfOscilloscopeVAng"  Margin="0">
+            </oscillo:WpfOscilloscope>
+        </GroupBox>
+
+        <GroupBox Grid.Column="3" Header="GroupBox" Margin="0" Grid.Row="4" Grid.RowSpan="4">
+            <ext:WorldMapDisplay x:Name="worldMapDisplay" Margin="0">
+            </ext:WorldMapDisplay>
+        </GroupBox>
+        <Button x:Name="buttonClearGraph" Content="Clear" Grid.Column="1" Margin="1,0,0,0" Grid.Row="11" Grid.ColumnSpan="3" Click="ButtonClearGraph_Click"/>
+
+    </Grid>
+</Window>

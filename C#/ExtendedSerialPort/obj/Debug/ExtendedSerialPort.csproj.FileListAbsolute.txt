@@ -1,0 +1,43 @@
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csproj.CoreCompileInputs.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20191221\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.pdb
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.dll
+C:\Users\Andre\Desktop\Programation_GEII\GEII2\S3\E&R Visual\20200103\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200104\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200116\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.pdb
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csprojAssemblyReference.cache
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.dll
+C:\Users\LattePanda\Desktop\peyronnet_teissier\20200128\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.pdb
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csprojAssemblyReference.cache
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.dll
+C:\Users\GEII Robot\Desktop\Projet_Coupe_Cachan\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.dll
+C:\E&R\Visual\Projet_Coupe_Cachan\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.pdb
+C:\E&R\Visual\Projet_Coupe_Cachan_1\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csprojAssemblyReference.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csproj.CoreCompileInputs.cache
+C:\E&R\Visual\Projet_Coupe_Cachan_1\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.dll
+C:\E&R\Visual\Projet_Coupe_Cachan_1\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.pdb
